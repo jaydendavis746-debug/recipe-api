@@ -1,8 +1,8 @@
-import React from 'react';
-import { ShowGallery } from '../../components';
+// import React from 'react';
+// import { ShowGallery } from '../../components';
 
-export default function ShowsPage() {
-  return (
-    <ShowGallery />
-  )
-};
+// export default function ShowsPage() {
+//   return (
+//     <ShowGallery />
+//   )
+// };

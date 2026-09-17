@@ -1,8 +1,8 @@
-import React from 'react';
-import { SearchWidget } from '../../components';
+// import React from 'react';
+// // import { SearchWidget } from '../../components';
 
-export default function SearchPage() {
-  return (
-    <SearchWidget />
-  )
-};
+// export default function SearchPage() {
+//   return (
+//     <SearchWidget />
+//   )
+// };
